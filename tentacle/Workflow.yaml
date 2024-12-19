@@ -1,0 +1,22 @@
+tasks:
+  - name: octopus-task-1
+    image: octopus-fb:latest
+  - name: octopus-task-2
+    image: octopus-fb:latest
+  - name: octopus-task-3
+    image: octopus-fb:latest
+  - name: octopus-task-4
+    image: octopus-fb:latest
+  - name: octopus-task-5
+    image: octopus-fb:latest
+  - name: octopus-task-6
+    image: octopus-fb:latest
+  - name: octopus-task-7
+    image: octopus-fb:latest
+  - name: octopus-task-8
+    image: octopus-fb:latest
+  - name: octopus-task-9
+    image: octopus-fb:latest
+  - name: octopus-task-10
+    image: octopus-fb:latest
+  

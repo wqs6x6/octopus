@@ -33,5 +33,7 @@ Third, *Client* initialization.
 python3 ./client/test_simulation_invocation.py
 ```
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 
